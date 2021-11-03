@@ -1,0 +1,2 @@
+# LineAccountBook
+LineとNotionで怠け者のための家計簿
